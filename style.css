@@ -1,0 +1,63 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: Sacramento;
+}
+
+.top{
+  background-color:#9DD6DF ;
+  width: 200px;
+  height : 200px;
+
+  position: fixed;
+
+}
+.middle{
+  background-color: red;
+  width: 200px;
+  height : 200px;
+
+  position: relative;
+  left:200px;
+
+}
+.bottom{
+  background-color: blue;
+  width: 200px;
+  height : 200px;
+  position: absolute;
+  left:408px;
+  top: 18px;
+
+}
+.first-div {
+  background-color: #3AB0FF;
+  padding-top: 70px;
+}
+.cloud-bottom{
+  position: absolute;
+  right: 230px;
+}
+.cloud-top{
+  position: absolute;
+  right: 300px;
+}
+.sayar{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+  top: 50px;
+}
+.second-div {
+  background-color: #9772FB;
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+
+h1{
+  font-size: 90px;
+}
+p{
+  font-size: 40px;
+}
